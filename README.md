@@ -1,2 +1,2 @@
 # code_examples
-There are interesting examples of my code (to memorize).
+There are some examples of my code (to memorize).
